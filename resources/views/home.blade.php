@@ -7,7 +7,7 @@
             <div class="card">
                 <div class="card-body center">
                     <h2 >
-                    ¡Bienvenido {{Auth::user()->name}}!
+                    ¡Bienvenido 2 {{Auth::user()->name}}!
                     </h2>
                 </div>
 
